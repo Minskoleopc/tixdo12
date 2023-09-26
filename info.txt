@@ -27,3 +27,4 @@ git  reset HEAD fileName
 
 // scnario - i make changes , i add it staging and commit it also , 
 not want remove the commit as code is not working
+git reset 709bac9
