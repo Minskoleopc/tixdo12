@@ -9,3 +9,19 @@ git commit -m "added ====> staging to local repo
 git branch -M main  === creating the branch
 git remote add origin https://github.com/Minskoleopc/tixdo12.git ===> local repo to remote repo
 git push -u origin main ====> pushed the code from local to remote repo
+git log 
+git show HEAD
+git diff fileName
+
+
+
+// scenario - i make changes to working directly and code stopped woirking 
+(making working director same as local repo (last commit))
+
+
+// scenario 2 - i makes changes in local repo and add then to staging 
+i don't want to remove changes from working director and only want remove it from staging
+
+
+// scnario - i make changes , i add it staging and commit it also , 
+not want remove the commit as code is not working
