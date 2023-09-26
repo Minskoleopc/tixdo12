@@ -1,0 +1,9 @@
+
+
+git init -- intialize the git repo
+workidng ======> statging =======> local repo =======> remote repo
+git add .  ==> all files from working directory moved to staging 
+git add file ==> only file will remove from working directoty to staging
+git status ==> gives up the status of which file is tracked or untracked
+
+
