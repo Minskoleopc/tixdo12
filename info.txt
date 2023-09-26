@@ -18,10 +18,12 @@ git diff fileName
 // scenario - i make changes to working directly and code stopped woirking 
 (making working director same as local repo (last commit))
 
+git checkout HEAD fileName
 
 // scenario 2 - i makes changes in local repo and add then to staging 
 i don't want to remove changes from working director and only want remove it from staging
 
+git  reset HEAD fileName
 
 // scnario - i make changes , i add it staging and commit it also , 
 not want remove the commit as code is not working
