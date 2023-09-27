@@ -30,5 +30,9 @@ not want remove the commit as code is not working
 git reset 709bac9
 
 // cloning the project 
-
 git clone https://github.com/Minskoleopc/tixdo12.git
+
+// git branch
+// git branch fb
+// git checkout fb
+// git push origin fb
