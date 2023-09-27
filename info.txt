@@ -35,3 +35,4 @@ git clone https://github.com/Minskoleopc/tixdo12.git
 // git branch
 // git branch fb
 // git checkout fb
+// git push origin fb
